@@ -2,8 +2,8 @@
 var RM = window.RM = window.RM || {};
 
 window.RM.config = {
-  root: "/u1179532223/5339356/",
+  root: "/readymag-site-my-work/",
   pushState: true
 }
 
-window.chunkURL = "/u1179532223/5339356/dist/";
+window.chunkURL = "/readymag-site-my-work/dist/";
